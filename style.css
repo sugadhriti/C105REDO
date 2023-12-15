@@ -1,0 +1,29 @@
+#body_background
+{
+    background-color: lightpink;
+}
+
+.name_of_objects
+{
+    font-size: 15px;
+    font-style: bold;
+    color: yellow;
+}
+
+#camera
+{
+    height: 40px;
+    width: 40px;
+}
+
+#result
+{
+    height: 40px;
+    width: 40px;
+}
+
+#heading
+{
+    font-size: 28px;
+    font-style: bold;
+}
